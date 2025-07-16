@@ -28,6 +28,8 @@ VALUES	(8,'P6'),
 		(9,'P7'),
 		(10,'P8');
 
+USE TestDB
 SELECT* FROM test.product
+
 
 
